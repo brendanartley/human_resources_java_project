@@ -1,3 +1,5 @@
+// Enter email and password in code, and allow less secure app access at https://myaccount.google.com/security
+
 package gitUpload;
 
 import java.util.Properties;
