@@ -1,3 +1,7 @@
+// edits needed : 
+// file_path of icon (line 71ish)
+// human_resource_email (line 218ish) email you want the job application sent to
+
 package gitUpload;
 
 import java.awt.Button;
