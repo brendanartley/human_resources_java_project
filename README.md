@@ -9,5 +9,8 @@ I would like to go a step further with this project and use some sort of AI mode
 Important: 
 
 a. Do make sure to properly format location of the image_icon in your folder when you build this yourself. More info in code comments in code file.
+
 b. make sure to enter your email address and password you want being the HR file. more info in code comments
+
+c. I built this application in eclipse with JDK 1.5, if you plan to build the maven project you will have to specify which version you are running in the properties tag
 
