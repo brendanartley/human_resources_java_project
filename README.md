@@ -6,9 +6,7 @@ I created a GUI which acts like a job application form. When the applicant fills
 
 Important: 
 
-a. Do make sure to properly format location of the image_icon in your folder when you build this yourself so you can see the icon on the welcome frame.
+1. Check each java file and comments on top of code for edits needed to make this run on your computer
 
-b. make sure to enter your email address and password you want being the HR file. Check java files and comments on top of code for more info.
-
-c. I built this application in eclipse with JDK 1.5, if you plan to build the maven project you will have to specify which version you are running in the properties tag in pom.xml
+2. I built this application in eclipse with JDK 1.5, if you plan to build the maven project you will have to specify which JDK version you are running in the properties tag in pom.xml
 
