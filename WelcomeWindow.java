@@ -1,3 +1,5 @@
+//specify image location on local hard drive if you would like to see an icon on the Welcome frame (line 68ish) 
+
 package gitUpload;
 
 import java.awt.EventQueue;
